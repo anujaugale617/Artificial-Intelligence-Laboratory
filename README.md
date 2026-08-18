@@ -22,4 +22,4 @@ Savitribai Phule Pune University (SPPU)
 ## Pattern
 2024 Pattern
 
-⭐ If this repository helps you, consider giving it a Star.
+
